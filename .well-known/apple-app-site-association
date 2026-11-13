@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["8597ND9XHH.com.mitssato.campstack"],
+        "components": [
+          { "/": "/join", "comment": "Invitation to a shared Plan" },
+          { "/": "/join/*", "comment": "The same, at the page's own address /join/" }
+        ]
+      }
+    ]
+  }
+}

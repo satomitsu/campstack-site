@@ -17,3 +17,4 @@ nav.lang { margin-top: 40px; font-size: 14px; }
 dt { font-weight: 700; margin-top: 14px; }
 dd { margin: 4px 0 0; }
 section.card h2.first { margin-top: 0; }
+a.button { display: inline-block; padding: 10px 20px; border-radius: 12px; background: var(--accent); color: #fff; font-weight: 700; text-decoration: none; }
